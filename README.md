@@ -8,7 +8,7 @@ I drop my college degree in BSc mathematics after realising my passion for progr
 
 * 🌍  I'm based in Kerala , INDIA
 * ✉️  You can contact me at [badshahbadu62@gmail.com](mailto:badshahbadu62@gmail.com)
-* 🧠  I'm learning Flutter Bloc state management
+* 🧠  I'm learning Flutter 
 * ⚡  i'm a self-taught software developer without any engineering degree
 
 ### Skills
